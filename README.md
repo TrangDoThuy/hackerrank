@@ -60,3 +60,18 @@ arr: an array of integers
 r: an integer, the common ratio
 
 https://www.hackerrank.com/challenges/count-triplets-1/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps
+
+## Frequency Queries
+
+### Function Description
+
+Complete the freqQuery function in the editor below. It must return an array of integers where each element is a 1 if there is at least one element value with the queried number of occurrences in the current array, or 0 if there is not.
+
+freqQuery has the following parameter(s):
+
+queries: a 2-d array of integers
+### Input Format
+
+The first line contains of an integer *q*, the number of queries.
+Each of the next *q* lines contains two integers denoting the 2-d array *queries.
+
